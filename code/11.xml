@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+    <book category="COOKING">
+        <title lang="en">Everyday Italian</title>
+        <author>Giada DE</author>
+        <year>2005</year>
+        <price>30.00</price>
+    </book>
+
+    <book category="CHILDREN">
+        <title lang="en">Harry Potter</title>
+        <author>J.K Rolling</author>
+        <year>2016</year>
+        <price>37.59</price>
+    </book>
+
+    <book category="WEB">
+        <title lang="en">Jin Huan</title>
+        <author>Chen Jing</author>
+        <year>2009</year>
+        <price>46.01</price>
+    </book>
+</bookstore>
