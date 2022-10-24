@@ -7,8 +7,8 @@ def test_book_ticker():
     end = '上海'
     n = 2
     name = '金欢'
-    id = '342425200110020156'
-    mobile = '16655467002'
+    id = '################'
+    mobile = '#######'
     book_ticket(start, end, n, name, id, mobile)
 
 if __name__ == '__main__':
